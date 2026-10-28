@@ -7,10 +7,9 @@ Aplicación móvil Android desarrollada para la **Evaluación Parcial 2** de la 
 
 | Nombre | Rol en el proyecto |
 |---|---|
-| _[Nombre integrante 1]_ | _[por completar]_ |
-| _[Nombre integrante 2]_ | _[por completar]_ |
+| _Angel Tomas Castillo Soto_ | _Desarrollador Android Full Stack_ |
 
-**Docente:** _[por completar]_ | **Sección:** _[por completar]_ | **Fecha:** _[por completar]_
+**Docente:** _Gonzalo Eduardo Perez Correa_ | **Sección:** _004D_ | **Fecha:** _28/10/2026_
 
 ---
 
